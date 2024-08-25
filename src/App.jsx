@@ -11,7 +11,7 @@ function App() {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    // Aqui você pode adicionar a lógica para enviar os dados, se necessário.
+   
   };
 
   return (
